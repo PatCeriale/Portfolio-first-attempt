@@ -1,4 +1,14 @@
 #Patrick{
     color: green;
-    background-color: grey;
+    /* background-color: grey; */
+}
+
+nav li{
+    color: rgb(20, 71, 20);
+}
+
+footer {
+    bottom: auto;
+    text-align: center;
+    background-color: darkslategrey;
 }
