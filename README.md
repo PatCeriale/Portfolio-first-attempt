@@ -7,7 +7,7 @@
 >This webpage was created using HTML/CSS and Bootstrap, no JavaScript other than that needed for the Bootstrap was used.
 
 **Challenges:**
-
+>I found it difficult to match the grids exactly like the template provided. This activity pushed me to figure out Bootstrap grids.
 
 **Future Development:**
 >In the future, it would be exciting to add JavaScript to this webpage to make it a more dynamic experience for the user.

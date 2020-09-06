@@ -1,14 +1,23 @@
+body {
+    background-image: url(https://st.depositphotos.com/2369859/4437/i/950/depositphotos_44378577-stock-photo-abstract-green-background-texture-design.jpg);
+    background-position: center;
+}
+
 #Patrick{
     color: green;
     /* background-color: grey; */
 }
 
-nav li{
-    color: rgb(20, 71, 20);
+nav{
+    width: 100%;
 }
 
-footer {
-    bottom: auto;
+.card-footer {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
     text-align: center;
     background-color: darkslategrey;
+    border-top-width: 5px;
+    border-color: green;
 }
