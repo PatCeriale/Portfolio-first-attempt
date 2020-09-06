@@ -1,6 +1,11 @@
 body {
     background-image: url(https://st.depositphotos.com/2369859/4437/i/950/depositphotos_44378577-stock-photo-abstract-green-background-texture-design.jpg);
     background-position: center;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100%;
 }
 
 #Patrick{
@@ -8,9 +13,9 @@ body {
     /* background-color: grey; */
 }
 
-nav{
+/* nav{
     width: 100%;
-}
+} */
 
 .card-footer {
     position: fixed;
@@ -20,4 +25,9 @@ nav{
     background-color: darkslategrey;
     border-top-width: 5px;
     border-color: green;
+}
+
+#info-box {
+    background-color: ivory;
+    height: 75vw;
 }
