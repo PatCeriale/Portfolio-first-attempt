@@ -15,7 +15,8 @@ body {
 
 #Patrick{
     color: green;
-    background-color:ivory;
+    background-color:rgb(14, 14, 14);
+    padding: 5px;
 }
 
 .card-footer {
@@ -31,8 +32,8 @@ body {
 #info-box {
     background-color: ivory;
     height: 75vh;
-    /* margin-top: 70%;
-    margin-bottom: 30%; */
+    display: table;
+    /* overflow: auto; */
 }
 
 /* .card-text {
