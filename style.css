@@ -1,39 +1,36 @@
-html{
-    height: 100%;
-
+html {
+  height: 100%;
 }
 body {
-    background-image: url(https://st.depositphotos.com/2369859/4437/i/950/depositphotos_44378577-stock-photo-abstract-green-background-texture-design.jpg);
-    background-position: center;
-   -webkit-background-size: cover;
+  background-image: url(https://st.depositphotos.com/2369859/4437/i/950/depositphotos_44378577-stock-photo-abstract-green-background-texture-design.jpg);
+  background-position: center;
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   min-height: 100vh;
-  
 }
 
-#Patrick{
-    color: green;
-    background-color:rgb(14, 14, 14);
-    padding: 5px;
+#Patrick {
+  color: green;
+  background-color: rgb(14, 14, 14);
+  padding: 5px;
 }
 
 .card-footer {
-    position: fixed;
-    bottom: 0%;
-    width: 100%;
-    text-align: center;
-    background-color: darkslategrey;
-    border-top-width: 5px;
-    border-color: green;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  text-align: center;
+  background-color: darkslategrey;
+  border-top-width: 5px;
+  border-color: green;
 }
 
 #info-box {
-    background-color: ivory;
-    height: 75vh;
-    display: table;
-    /* overflow: auto; */
+  background-color: ivory;
+
+  /* overflow: auto; */
 }
 
 /* .card-text {
@@ -41,7 +38,7 @@ body {
 } */
 
 .card {
-    width: auto;
+  width: auto;
 }
 
 /* .row-one {
@@ -49,14 +46,19 @@ body {
 } */
 
 #about-image {
-    margin: 10px;
+  margin: 10px;
 }
 
 .btn {
-margin: 20px;
-background-color: green;
-border-color: black;
-border-radius: 0%;
-padding: 10px;
-width: 100px;
+  margin: 20px;
+  background-color: green;
+  border-color: black;
+  border-radius: 0%;
+  padding: 10px;
+  width: 100px;
 }
+
+/* portfolio-image {
+    margin-left: auto;
+    margin-right: auto;
+} */
