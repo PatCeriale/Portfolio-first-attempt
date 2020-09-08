@@ -1,6 +1,4 @@
-html {
-  height: 100%;
-}
+/* Image link for background, along with sizing to fill viewable screen */
 body {
   background-image: url(https://st.depositphotos.com/2369859/4437/i/950/depositphotos_44378577-stock-photo-abstract-green-background-texture-design.jpg);
   background-position: center;
@@ -10,13 +8,13 @@ body {
   background-size: cover;
   min-height: 100vh;
 }
-
+/* Navbar styling */
 #Patrick {
   color: green;
   background-color: rgb(14, 14, 14);
   padding: 5px;
 }
-
+/* Footer styling */
 .card-footer {
   position: fixed;
   bottom: 0%;
@@ -26,29 +24,15 @@ body {
   border-top-width: 5px;
   border-color: green;
 }
-
+/* Container background */
 #info-box {
   background-color: ivory;
-
-  /* overflow: auto; */
 }
-
-/* .card-text {
-    justify-content: end;
-} */
-
-.card {
-  width: auto;
-}
-
-/* .row-one {
-    flex-wrap: auto;
-} */
-
+/* Homepage picture margin */
 #about-image {
   margin: 10px;
 }
-
+/* Contact submit button styling */
 .btn {
   margin: 20px;
   background-color: green;
@@ -57,8 +41,3 @@ body {
   padding: 10px;
   width: 100px;
 }
-
-/* portfolio-image {
-    margin-left: auto;
-    margin-right: auto;
-} */
