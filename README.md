@@ -2,11 +2,11 @@
 
 **Overview:**
 
-> For this project, I used the template given to us in our homework folder to build a portfolio webpage. My goal was to create the webpage with the same structure and functionality as the template, while changing some of the styling to make it more personalized for my preferences.
+> For this project, I used a template to build a portfolio webpage containing an About Me, Portfolio and Contact section. My goal was to create the webpage with the same structure and functionality as the template, while changing some of the styling to make it more personalized for my preferences.
 
 **Technologies:**
 
-> This webpage was created using HTML/CSS and Bootstrap, no JavaScript other than that needed for the Bootstrap was used.
+> This webpage was created using HTML/CSS and Bootstrap. No JavaScript other than that needed for the Bootstrap was used.
 
 **Challenges:**
 
@@ -22,4 +22,8 @@
 
 **Preview**
 
-<img width="1090" alt="Screen Shot 2020-09-08 at 3 37 30 PM" src="https://user-images.githubusercontent.com/68709356/92534641-272b1e80-f1ea-11ea-9806-5afaa3a981a6.png">
+<img width="1090" alt="Screen Shot 2020-09-08 at 3 37 30 PM" src="https://user-images.githubusercontent.com/68709356/92534641-272b1e80-f1ea-11ea-9806-5afaa3a981a6.png"><br>
+
+<img width="1090" alt="Screen Shot 2020-09-08 at 3 37 30 PM" src="https://user-images.githubusercontent.com/68709356/92628882-52614c80-f282-11ea-9af4-8db24e0ed6b0.png"><br>
+
+<img width="1090" alt="Screen Shot 2020-09-08 at 3 37 30 PM" src="https://user-images.githubusercontent.com/68709356/92629027-89376280-f282-11ea-9155-20c07242e460.png">
