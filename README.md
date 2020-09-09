@@ -2,7 +2,7 @@
 
 **Overview:**
 
-> For this project, I used a template to build a portfolio webpage containing an About Me, Portfolio and Contact section. My goal was to create the webpage with the same structure and functionality as the template, while changing some of the styling to make it more personalized for my preferences.
+> For this project, I used a template to build a portfolio webpage containing an About Me, Portfolio and Contact section. My goal was to create the webpage with the same structure and functionality as the template, while changing some of the styling to make it more personalized for my preferences. I wanted to have a webpage containing responsive layout, responsive pictures, and a functioning navbar with links to the other pages.
 
 **Technologies:**
 
